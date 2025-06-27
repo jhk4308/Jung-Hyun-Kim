@@ -6,7 +6,7 @@
 공공보건, 유통, 의료 데이터를 기반으로 실질적인 분석 인사이트와 예측 모델을 설계해 왔습니다.  
 복잡한 데이터 속에서 흐름을 읽고, 실현 가능한 솔루션을 제안하는 데이터 분석가를 지향합니다.
 
-📌 Notion 포트폴리오: [바로가기](https://www.notion.so/) ← 실제 링크로 교체하세요!
+📌 Notion 포트폴리오: [바로가기]((https://www.notion.so/Jung-Hyun-Kim-b170ecdbdebe48b0b4c79ce6e7a2335f?source=copy_link)) ← 실제 링크로 교체하세요!
 
 ---
 
@@ -77,6 +77,16 @@
 ---
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjhk4308&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+## 📫 Contact
+
+- 📧 Email: byung624@naver.com
+- 🧾 Notion 포트폴리오: [notion.so/yourname](https://notion.so/...)  
+- 📁 GitHub Projects: 정리 중 (곧 프로젝트별로 분리 예정입니다!)
+
+---
+
 
 ### 🚌 Top Langs & Algorithm
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=______&layout=compact)
