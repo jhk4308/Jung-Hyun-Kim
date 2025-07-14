@@ -32,7 +32,7 @@
 
 ## 💼 Projects
 
-### 🔬 건강 설문 기반 질환 예측 모델 개발 및 대시보드 구현  
+### 🔬 [건강 설문 기반 질환 예측 모델 개발 및 대시보드 구현] (https://github.com/jhk4308/health-survey-disease-prediction.git)
 **기간**: 2024.12 - 2025.01 | **팀 프로젝트** | **DAB 3기 대상 수상작**  
 - 국민건강영양조사 데이터(10년치, 72,000건) 기반 고혈압, 당뇨, 이상지질혈증 예측  
 - MultiOutputClassifier 기반 Conv1D 딥러닝 모델 개발  
