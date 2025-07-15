@@ -45,7 +45,6 @@
 - **피처 엔지니어링**: 결측치/이상치 처리 기준 표준화 및 변수 스케일링, 신규 파생 변수(연령대별 BMI, 허리둘레 지표 등) 설계  
 - **실험 및 검증**: 예측 임계값 변화에 따른 F1-score 비교 실험(A/B Test)으로 최종 Threshold 도출 → F1-score 93% 달성  
 - **결과 공유**: Streamlit 대시보드 제작하여 의료 사각지대 해소를 위한 예측 결과 시각화 제공  
-📌 기술: PyTorch, Pandas, Scikit-learn, Streamlit
 
 ---
 
@@ -55,8 +54,6 @@
 - **문제 정의**: 구매 패턴 데이터를 기반으로 고객 Segmentation 고도화 및 결혼 여부 예측으로 맞춤형 마케팅 전략 수립  
 - **피처 엔지니어링**: 요일/시간대/용기보증금 등 파생 변수 생성, 변수 중요도 분석 및 상관계수 검증으로 핵심 변수 선정  
 - **실험 및 검증**: Stacking Ensemble(XGBoost, LightGBM, CatBoost) 모델 간 A/B 성능 비교 실험으로 최적 앙상블 조합 설계 → 내부 Kaggle 대회 5위 달성  
-📌 기술: Pandas, LightGBM, CatBoost, Logistic Regression  
-📊 Public Score: 0.732 / Private Score: 0.741
 
 ---
 
@@ -66,7 +63,6 @@
 - **문제 정의**: 서울시 자치구별 미세먼지(PM10) 농도가 호흡기 질환 진료 건수에 미치는 영향 규명  
 - **피처 엔지니어링**: 인구수·고령화율·의료 접근성 등 외부 변수 결합한 다변량 데이터 구조화 및 시계열 데이터 전처리  
 - **실험 및 검증**: Correlation Analysis 및 지역별 비교 실험으로 상관계수 도출 → 자치구별 정책 제언 인사이트 제시  
-📌 기술: Pandas, Seaborn, Tableau
 
 ---
 
@@ -76,7 +72,6 @@
 - **문제 정의**: 국가별 AQI 지수 차이에 영향을 미치는 요인 비교 및 그룹별(선진국/개발도상국) 정책 시사점 도출  
 - **피처 엔지니어링**: 인구 밀도, 산업화 지표 등 외부 변수 추가 및 변수 변환(Transformation)으로 해석력 강화  
 - **실험 및 검증**: Scatterplot Matrix, Conditional Plot을 활용한 다변량 관계 탐색 및 그룹별 비교 분석  
-📌 기술: Pandas, Seaborn, Matplotlib
 
 ---
 
