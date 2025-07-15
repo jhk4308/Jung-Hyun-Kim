@@ -58,6 +58,7 @@ A/B 테스트나 임계값 튜닝 등 실험 설계로 가설을 검증하고
 ---
 
 ### 🛍️ 백화점 구매 데이터 기반 고객 결혼 여부 예측
+[![GitHub Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jhk4308/department-store-marriage-prediction)
 
 **기간**: 2024.10 - 2024.11 | **4인 팀 프로젝트**  
 - 구매 패턴 데이터를 기반으로 고객 Segmentation 고도화 및 결혼 여부 예측으로 맞춤형 마케팅 전략 수립  
@@ -67,6 +68,7 @@ A/B 테스트나 임계값 튜닝 등 실험 설계로 가설을 검증하고
 ---
 
 ### 🌫️ 미세먼지와 호흡기 질환 상관관계 분석
+[![GitHub Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jhk4308/pm10-respiratory-disease-analysis)
 
 **기간**: 2024.10 | **4인 팀 프로젝트**  
 - 서울시 자치구별 미세먼지(PM10) 농도가 호흡기 질환 진료 건수에 미치는 영향 규명  
