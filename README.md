@@ -15,7 +15,6 @@
 공공보건, 유통, 의료 데이터를 기반으로 실질적인 분석 인사이트와 예측 모델을 설계해 왔습니다.  
 복잡한 데이터 속에서 흐름을 읽고, 실현 가능한 솔루션을 제안하는 데이터 분석가를 지향합니다.
 
-📌 Notion 포트폴리오: [Notion Link](https://www.notion.so/Jung-Hyun-Kim-b170ecdbdebe48b0b4c79ce6e7a2335f)
 
 ---
 
