@@ -2,9 +2,6 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20to%20My%20GitHub!&fontAlign=40&fontAlignY=40&color=gradient)
 
-<p align="center">
-  Welcome to my space where I solve problems with data 🧩
-</p>
 
 ---
 
