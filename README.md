@@ -67,7 +67,6 @@
 ## 📫 Contact
 
 - 📧 Email: jhk2858@gmail.com
-- 🧾 Notion: [https://www.notion.so/Jung-Hyun-Kim-b170ecdbdebe48b0b4c79ce6e7a2335f](https://www.notion.so/Jung-Hyun-Kim-b170ecdbdebe48b0b4c79ce6e7a2335f)
 
 ---
 
