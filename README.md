@@ -45,7 +45,6 @@
 - 결측/이상치 처리 기준 표준화와 변수 스케일링으로 데이터 신뢰도 향상  
 - 예측 임계값 변화별 F1-score 비교 실험 통해 최종 93% 성능 달성  
 - Streamlit 대시보드 제작하여 의료 사각지대 해소용 시각화 제공  
-📌 기술: PyTorch, Pandas, Scikit-learn, Streamlit
 
 ---
 
@@ -56,8 +55,6 @@
 - 파생 변수(용기보증금 등) 설계와 변수 중요도 비교 실험으로 예측 모델 성능 향상  
 - Stacking Ensemble 기법 적용해 예측 정확도 개선, 내부 Kaggle 대회 5위 기록  
 - 구매율 증대 및 맞춤형 마케팅 전략 수립 기반 제공  
-📌 기술: Pandas, LightGBM, CatBoost, Logistic Regression  
-📊 Public Score: 0.732 / Private Score: 0.741
 
 ---
 
@@ -68,7 +65,6 @@
 - 인구수·고령화율 등 외부 변수 결합해 다변량 회귀분석 설계  
 - long-form 시계열 데이터 구조화 및 Correlation Analysis로 상관계수 도출  
 - 자치구별 공기질 정책 수립을 위한 데이터 기반 인사이트 제시  
-📌 기술: Pandas, Seaborn, Tableau
 
 ---
 
@@ -79,7 +75,6 @@
 - 인구 밀도·산업화 수준에 따른 Comparative Analysis 및 Variable Transformation  
 - Scatterplot Matrix, Conditional Plot 등 다변량 EDA로 관계 탐색  
 - 선진국/개발도상국 그룹별 차이 도출 및 변수 해석력 강화  
-📌 기술: Pandas, Seaborn, Matplotlib
 
 ---
 
